@@ -1,3 +1,4 @@
+,0
 Common Name,Binomial Nomenclature
 Apple,Pyrus malus
 Bactrian Camel,Camelus bactrianus
@@ -12,7 +13,7 @@ Blackbuck,Antilope cervicapra
 Brinjal,Solanum melongena
 Bulbul,Molpastes cafer
 Capsicum,Capsicum fruitscence
-Carrot,Daucas carota
+Carrot,Daucus carota
 Cashew nut,Anacardium occidentale
 Cat,Felis catus
 Cheetah,Acinonyx jubatus
@@ -129,7 +130,7 @@ Tree,pipit Anthus trivialis
 Treecreeper,Certhia familiaris
 Tufted,duck Aythya fuligula
 Tulsi,Ocimum sanctum
-Turmeric,Curcuma longa
+Turmeric, Curcuma longa
 Walrus,Odobenus rosmarus
 Water Buffalo,Bubalus bubalis
 Watermelon,Citrullus vulgaris
@@ -143,3 +144,6 @@ Wood,warbler Phylloscopus sibilatrix
 Woodpigeon,Columba palumbus
 Wren,Troglodytes troglodytes
 Yellowhammer,Emberiza citrinella
+Tamarind,Tamarindus indica
+Date Palm,Phoenix dactylifera
+Sweet Potato,Ipomoea batatas
