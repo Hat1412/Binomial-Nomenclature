@@ -9,9 +9,9 @@ To use this program:
 
 To download the files:
   ```
-  git clone https://github.com/Hat1412/Face-Lock.git
+  git clone https://github.com/Hat1412/Binomial_Nomenclature.git
   
   ```
   
-  else: 
+  else: </br>
     Download as zip file
