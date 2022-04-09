@@ -1,4 +1,3 @@
-,0
 Common Name,Binomial Nomenclature
 Apple,Pyrus malus
 Bactrian Camel,Camelus bactrianus
@@ -25,6 +24,7 @@ Cotton,Gossypium herbaceum
 Cow,Bos Taurus
 Cucumber,Cucumis sativas
 Curry leaf,Murraya koenigii
+Date Palm,Phoenix dactylifera
 Dog,Canis lupus familiaris
 Donkey,Equus africanus asinus
 Dragon fruit,Hylocereus undatus
@@ -113,6 +113,8 @@ Song,thrush Turdus philomelos
 Soya bean,Glycine max
 Sparrowhawk,Accipiter nisus
 Sperm Whale,Physeter macrocephalus
+Axolotl,Ambystoma mexicanum
+Aye Aye,Daubentonia madagascariensis
 Spinach,Lactuca sativa
 Spotted,flycatcher Muscicapa striata
 Starling,Sturnus vulgaris
@@ -120,6 +122,8 @@ Stock,dove Columba oenas
 Stonechat,Saxicola torquata
 Sunflower,Helianthus annuus
 Swallow,Hirundo rustica
+Sweet Potato,Ipomoea batatas
+Tamarind,Tamarindus indica
 Tamarind tree,Tamarindus indica
 Teak,Tectona grandis Linn.
 Tiger,Panthera tigris
@@ -144,6 +148,3 @@ Wood,warbler Phylloscopus sibilatrix
 Woodpigeon,Columba palumbus
 Wren,Troglodytes troglodytes
 Yellowhammer,Emberiza citrinella
-Tamarind,Tamarindus indica
-Date Palm,Phoenix dactylifera
-Sweet Potato,Ipomoea batatas
