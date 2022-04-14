@@ -1,5 +1,51 @@
+,0
 Common Name,Binomial Nomenclature
+Aardvark,Orycteropus afer
+Aardwolf,Proteles cristata
+Abyssinian,Felis catus
+Addax,Addax nasomaculatus
+Adelie Penguin,Pygoscelis adeliae
+Aesculapian snake,Zamenis longissimus
+Affenpinscher,Canis lupus familiaris
+Afghan Hound,Canis lupus familiaris
+African Bullfrog,Pyxicephalus adspersus
+African Bush Elephant,Loxodonta africana
+African Civet,Civettictis civetta
+African Clawed Frog,Xenopus laevis
+African Forest Elephant,Loxodonta cyclotis
+African Grey Parrot,Psittacus erithacus
+African Palm Civet,Nandinia binotata
+African Penguin,Spheniscus demersus
+African Tree Toad,Nectophryne afra
+African Wild Dog,Lycaon pictus
+Agama Lizard,Agama
+Aidi,Canis lupus familiaris
+Airedale Terrier,Canis lupus familiaris
+Akbash,Canis lupus familiaris
+Akita,Canis lupus familiaris
+Alabai,Canis lupus familiaris
+Alaskan Klee Kai,Canis lupus familiaris
+Alaskan Malamute,Canis lupus familiaris
+Alaskan Shepherd,Canis lupus familiaris
+Albacore Tuna,Thunnus alalunga
+Albatross,Diomedeidae
+Aldabra Giant Tortoise,Aldabrachelys gigantea
+Alligator,Alligator mississippiensis
+Alligator Gar,Atractosteus spatula
+Alpaca,Vicugna pacos
+Alpine Dachsbracke,Canis lupus familiaris
+Alpine Goat,Capra aegagrus hircus
+Amazon Parrot,Amazona
+Amazon River Dolphin (Pink Dolphin),Inia geoffrensis
+Ambrosia Beetle,Platypodinae
+American Alsatian,Canis lupus familiaris
+American Bulldog,Canis lupus familiaris
+American Cocker Spaniel,Canis lupus familiaris
+American Cockroach,Periplaneta americana
+American Coonhound,Canis lupus familiaris
 Apple,Pyrus malus
+Axolotl,Ambystoma mexicanum
+Aye Aye,Daubentonia madagascariensis
 Bactrian Camel,Camelus bactrianus
 Bamboo,Bamboosa aridinarifolia
 Banana,Musa paradisicum
@@ -42,7 +88,6 @@ Guava,Psidium guava
 Hippopotamus,Hippopotamus amphibius
 Horse,Equus ferus caballus
 House wall Lizard,Hemidactylus flaviviridis
-Human,Homo sapiens
 Human beings,Homo sapiens
 Humpback whale,Megaptera novaeangliae
 Indian Cobra,Naja naja
@@ -54,10 +99,8 @@ King cobra,Ophiophagus hannah
 Kingfisher,Alcedo atthis
 Lapwing,Vanellus vanellus
 Lemon,Citrus Limonium
-Leopard Seal,Hydrurga leptonyx
 Lesser,redpoll Carduelis cabaret
-Lettuce,Lactuca sativa
-Lion,Felis leo
+Lion,Panthera leo
 Long,tailed tit Aegithalos caudatus
 Magpie,Pica pica
 Maize,Zea mays
@@ -113,8 +156,6 @@ Song,thrush Turdus philomelos
 Soya bean,Glycine max
 Sparrowhawk,Accipiter nisus
 Sperm Whale,Physeter macrocephalus
-Axolotl,Ambystoma mexicanum
-Aye Aye,Daubentonia madagascariensis
 Spinach,Lactuca sativa
 Spotted,flycatcher Muscicapa striata
 Starling,Sturnus vulgaris
@@ -123,7 +164,6 @@ Stonechat,Saxicola torquata
 Sunflower,Helianthus annuus
 Swallow,Hirundo rustica
 Sweet Potato,Ipomoea batatas
-Tamarind,Tamarindus indica
 Tamarind tree,Tamarindus indica
 Teak,Tectona grandis Linn.
 Tiger,Panthera tigris
@@ -134,7 +174,7 @@ Tree,pipit Anthus trivialis
 Treecreeper,Certhia familiaris
 Tufted,duck Aythya fuligula
 Tulsi,Ocimum sanctum
-Turmeric, Curcuma longa
+Turmeric,Curcuma longa
 Walrus,Odobenus rosmarus
 Water Buffalo,Bubalus bubalis
 Watermelon,Citrullus vulgaris
