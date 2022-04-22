@@ -16,3 +16,11 @@ To download the files:
   
   else: </br>
     Download as zip file
+
+</br>
+For more details:
+<pre>
+
+Contact me at: </br>
+    Reddit: <strong> u/Hat1412 </strong>
+</pre>
