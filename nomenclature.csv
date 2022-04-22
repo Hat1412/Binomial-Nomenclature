@@ -19,6 +19,7 @@ African Penguin,Spheniscus demersus
 African Tree Toad,Nectophryne afra
 African Wild Dog,Lycaon pictus
 Agama Lizard,Agama
+Ageratum,Ageratum houstonianum
 Aidi,Canis lupus familiaris
 Airedale Terrier,Canis lupus familiaris
 Akbash,Canis lupus familiaris
@@ -48,6 +49,7 @@ American Eskimo Dog,Canis lupus familiaris
 American Foxhound,Canis lupus familiaris
 American Hairless Terrier,Canis lupus familiaris
 American Leopard Hound,Canis lupus familiaris
+American Marigold,Tagetes erecta
 American Pit Bull Terrier,Canis lupus familiaris
 American Pygmy Goat,Capra aegagrus hircus
 American Robin,Turdus migratorius
@@ -60,15 +62,19 @@ Anatolian Shepherd Dog,Canis lupus familiaris
 Anchovies,Engraulidae
 Angelfish,Pterophyllum
 Anglerfish,Lophiiformes
+Angora Ferret,Mustela furo
 Angora Goat,Capra aegagrus hircus
+Annual Vinca,Catharanthus roseus
 Anole Lizard,Anolis carolinensis
 Ant,Formicidae
+Antarctic scale worm,Eulagisca gigantea
 Anteater,Vermilingua
 Antelope,Bovidae
 Ants,Formicidae
 Ape,Hominoidea
 Appenzeller Dog,Canis lupus familiaris
 Apple,Pyrus malus
+Apple Head Chihuahua,Canis lupus familiaris
 Arafura File Snake,Acrochordus arafurae
 Arapaima,Arapaima
 Arctic Fox,Vulpes lagopus
@@ -89,9 +95,11 @@ Asp,Vipera aspis
 Assassin Bug,Reduviidae
 Aurochs,Bos primigenius
 Aussiedoodle,Canis lupus familiaris
+Aussiedor,Canis lupus familiaris
 Australian Bulldog,Canis lupus familiaris
 Australian Cattle Dog,Canis lupus familiaris
 Australian Cockroach,Periplaneta australasiae
+Australian Gecko,Nephrurus levis
 Australian Kelpie Dog,Canis lupus familiaris
 Australian Labradoodle,Canis lupus familiaris
 Australian Mist,Felis catus
@@ -103,6 +111,7 @@ Axolotl,Ambystoma mexicanum
 Aye Aye,Daubentonia madagascariensis
 Babirusa,Babyrousa
 Baboon,Papio
+Bacopa,Sutera cordata
 Bactrian Camel,Camelus bactrianus
 Baiji,Lipotes vexillifer
 Bald Eagle,Haliaeetus leucocephalus
@@ -110,6 +119,7 @@ Baleen Whale,Mysticeti
 Balinese,Felis catus
 Balkan Lynx,Lynx lynx balcanicus
 Ball Python,Python regius
+Balloon Flower,Platycodon grandiflorus
 Bamboo,Bamboosa aridinarifolia
 Banana,Musa paradisicum
 Banana Ball Python,Python regius
@@ -151,11 +161,13 @@ Bearded Dragon,Pogona
 Bearded Vulture,Gypaetus barbatus
 Beaski ,Canis lupus familiaris
 Beauceron,Canis lupus familiaris
+Beautybush,Kolkwitzia amabilis
 Beaver,Castor
 Bed Bugs,Cimicidae
 Bed bugs,Cimicidae
 Bedlington Terrier,Canis lupus familiaris
 Bee,Anthophila
+Bee-Balm,Monarda didyma
 Beefalo,Bos taurus X Bison bison
 Bees,Anthophila
 Beetle,Coleoptera
@@ -194,25 +206,31 @@ Black Wasp,Sphex pensylvanicus
 Black Widow Spider,Latrodectus
 Black-Capped Chickadee,Poecile atricapillus
 Black-Footed Ferret,Mustela nigripes
+Black-eyed Susan,Rudbeckia hirta
 Blackbuck,Antilope cervicapra
 Blackpoll Warbler,Setophaga striata
 Blanket Octopus,Tremoctopus
+Bleeding-heart,Dicentra spectabilis
 Blister Beetle,Meloidae
 Blobfish,Psychrolutes marcidus
 Blood Python,Python brongersmai
 Bloodhound,Canis lupus familiaris
+Bloody Cranesbill,Geranium sanguineum
 Blue Belly Lizard,Sceloporus occidentalis
 Blue Catfish,Ictalurus furcatus
+Blue Fescue,Festuca glauca
 Blue Iguana,Cyclura lewisi
 Blue Jay,Cyanocitta cristata
 Blue Lacy Dog,Canis lupus familiaris
 Blue Picardy Spaniel,Canis lupus familiaris
+Blue Sage,Salvia farinacea
 Blue Shark,Prionace glauca
 Blue Tit,Cyanistes caeruleus
 Blue Whale,Balaenoptera musculus
 Blue grosbeak,Passerina caerulea
 Blue-Ringed Octopus,Hapalochlaena
 Bluefin Tuna,Thunnus thynnus
+Bluestem,Schizachyrium x
 Bluetick Coonhound,Canis lupus familiaris
 Bobcat,Lynx rufus
 Bobolink,Dolichonyx oryzivorus
@@ -256,6 +274,9 @@ Bug,Insecta
 Bulbul,Molpastes cafer
 Butterflies,Rhopalocera
 Butterfly,Rhopalocera
+Butterfly-Weed,Asclepias tuberosa
+Caladium,Caladium x hortulanum
+Canna Lily,Canna generalis
 Capsicum,Capsicum fruitscence
 Carrot,Daucus carota
 Cashew nut,Anacardium occidentale
@@ -264,19 +285,26 @@ Centipede,Chilopoda
 Cheetah,Acinonyx jubatus
 Chiku,Achras sapota
 Chimpanzee,Pan troglodytes
+China Pink,Dianthus chinensis
+Cigar Flower,Cuphea ignea
 Clove,Syzygium aromaticum
 Cockroach,Blattodea
 Cockroaches,Blattodea
+Coleus,Solenostemon scutellaroides
 Common Frog,Rana temporaria
 Common Furniture Beetle,Anobium punctatum
 Common House Spider,Parasteatoda tepidariorum
 Common Loon,Gavia immer
 Common Raven,Corvus corax
 Common Toad,Bufo bufo
+Common Yarrow,Achillea millefolium
+Common Zinnia,Zinnia elegans
 Congo Snake,Amphiuma
 Cookiecutter Shark,Isistius brasiliensis
 Coopers Hawk,Accipiter cooperii
 Copperhead,Agkistrodon contortrix
+Coral Bells,Heuchera hybrid
+Coral Snake,Micrurus fulvius
 Coriander,Coriandrum sativum
 Corn Snake,Pantherophis guttatus
 Coton de Tulear,Canis lupus familiaris
@@ -292,7 +320,10 @@ Crab-Eating Macaque,Macaca fascicularis
 Crabeater Seal,Lobodon carcinophagus
 Crane,Gruidae
 Crappie Fish,Pomoxis
+Creeping Zinnia,Sanvitalia speciosa
+Crested Cockscomb,Celosia agentea var. cristata
 Crested Gecko,Correlophus ciliatus
+Crested Iris,Iris cristata
 Crested Penguin,Eudyptes sclateri
 Cricket,Grylloidea
 Crickets,Grylloidea
@@ -309,35 +340,68 @@ Curry leaf,Murraya koenigii
 Cuscus,Phalanger
 Cuttlefish,Sepiida
 Date Palm,Phoenix dactylifera
+Daylily,Hemerocallis hybrids
 Dog,Canis lupus familiaris
 Donkey,Equus africanus asinus
+Doublefile Viburnum,Viburnum plicatum var. tomentosum
 Dragon fruit,Hylocereus undatus
 Dragonflies,Anisoptera
 Dragonfly,Anisoptera
 Dromedary Camel,Camelus dromedaries
+Dusty Miller,Senecio cineraria
 Earwigs,Dermaptera
+Eastern Redbud,Cercis canadensis
+Eulalia Grass,Miscanthus
+False Indigo,Baptisia australis
+Fan Flower,Scaevola aemula
+Feather Reed Grass,Calamagrostis
+Fern-leaf Yarrow,Achillea fillipenulina
+Field Pansy,Viola tricolor
 Finger millet,Eleusine coracana
 Firefly,Lampyridae
 Flea,Siphonaptera
 Fleas,Siphonaptera
+Flowering Cabbage/Kale,Brassica oleracea
+Flowering Tobacco,Nicotiana x sanderae
 Fly,Diptera
+Fortune's Hosta,Hosta fortunei 'Albomarginata'
+Fountain Grass,Pennisetum alopecuroides
 Fowl,Gallus gallus domesticus
+Fragrant Sumac,Rhus aromatica
+French Marigold,Tagetes patula
+Fringed Bleeding-heart,Dicentra exima
+Garden Impatiens,Impatiens walleriana
+Garden Lily,Lilium
+Garden Phlox,Phlox paniculata
+Garden Verbena,Verbena x hybrida
 Garlic,Allium sativum
+Gazania,Gazania rigens
+Gentian Sage,Salvia patens
 Gharial,Gavialis gangeticus
 Ginger,Zingiber officinale
+Globe Amaranth,Gomphrena haageana
 Goat,Capra aegagrus hircus
+Gooseneck Loosestrife,Lysimachia
 Gorilla,Gorilla
+Grass Pink,Dianthus plumarius
 Grasshopper,Caelifera
 Grasshoppers,Caelifera
 Great white shark,Carcharodon carcharias
 Green Gram,Phaseolus audicus
 Greenfly,Aphidoidea
 Guava,Psidium guava
+Hakone Grass,Hakonechloa
+Hinoki Falsecypress,Chamaecyparis obtusa
 Hippopotamus,Hippopotamus amphibius
 Horse,Equus ferus caballus
+Hosta Kabitan,Hosta sieboldii
 House wall Lizard,Hemidactylus flaviviridis
 Human beings,Homo sapiens
 Humpback whale,Megaptera novaeangliae
+Hybrid Astilbe,Astilbe hybrids
+Hybrid Bearded Iris,Iris hybrids
+Hybrid Columbine,Aquilegia x hybrida
+Hybrid Pansy,Viola x wittrockiana
 Ibex,Capra ibex
 Ibis,Threskiornithinae
 Ibizan Hound,Canis lupus familiaris
@@ -349,6 +413,7 @@ Imperial Moth,Eacles imperialis
 Indian Cobra,Naja naja
 Indian Elephant,Elephas maximus
 Indian Giant Squirrel,Ratufa indica
+Indian Grass,Sorghastrum x
 Indian Palm Squirrel,Funambulus palmarum
 Indian Rhinoceros,Rhinoceros unicornis
 Indian Star Tortoise,Geochelone elegans
@@ -362,6 +427,7 @@ Irish Water Spaniel,Canis lupus familiaris
 Irish WolfHound,Canis lupus familiaris
 Italian Greyhound,Canis lupus familiaris
 Ivory-billed woodpecker,Campephilus principalis
+Ivy Geranium,Pelargonium peltatum
 Jacana,Jacanidae
 Jack Russell,Canis lupus familiaris
 Jackal,Canis aureus
@@ -372,12 +438,16 @@ Jackson's Chameleon,Trioceros jacksonii
 Jaguar,Panthera onca
 Jaguarundi Cat,Puma yagouaroundi
 Japanese Beetle,Popillia japonica
+Japanese Blood Grass,Imperata
 Japanese Chin,Canis lupus familiaris
+Japanese Iris,Iris ensata
 Japanese Macaque,Macaca fuscata
 Japanese Spitz,Canis lupus familiaris
 Japanese Squirrel,Sciurus lis
 Japanese Terrier,Canis lupus familiaris
+Japanese tree lilac,Syringa reticulata
 Javan Rhinoceros,Rhinoceros sondaicus
+Joe-Pye Weed,Eupatorium purpureum
 Jonah Crab,Cancer borealis
 Joro Spider,Nephila clavata
 Jowar,Sorghum Vulgare
@@ -386,27 +456,41 @@ Junglefowl,Gallus
 Kadamb,Anthocephalus indicus
 King cobra,Ophiophagus hannah
 Kingfisher,Alcedo atthis
+Lady's Mantle,Alchemilla mollis
 Ladybug,Coccinellidae
 Ladybugs,Coccinellidae
+Lambs Ears,Stachys x
 Lapwing,Vanellus vanellus
+Lavender,Lavendula angustifolia
 Lemon,Citrus Limonium
 Lesser,redpoll Carduelis cabaret
+Lilac,Syringa vulgaris
+Lily-of-the-Valley,Convallaria majalis
 Lion,Panthera leo
+Lobelia,Lobelia erinus
 Locust,Schistocerca gregaria
 Long,tailed tit Aegithalos caudatus
 Magpie,Pica pica
+Maiden Pink,Dianthus deltoides
 Maize,Zea mays
 Mallard,Anas platyrhynchos
 Mango,Mangifera indica
 Meadow,pipit Anthus pratensis
+Million Gold,Melampodium paludosum
 Mint,Mentha arvensis
 Mistle,thrush Turdus viscivorus
 Moorhen,Gallinula chloropus
 Mosquito,Culicidae
+Moss Phlox,Phlox subulata
+Moss Verbena,Verbena tenuisecta
 Moths,Lepidoptera
+Narrow-leaved Zinnia,Zinnia angustifolia
 Narwal,Monodon monoceros
+Nasturtium,Tropaeolum majus
 Neem,Azadirachta indica
 Nettle,Urtica dioica
+New England Aster,Aster novae-angliae
+New Guniea Impatiens,Impatiens hawkeri
 Oak Toad,Anaxyrus quercicus
 Ocelot,Leopardus pardalis
 Octopus,Octopoda
@@ -422,6 +506,9 @@ Orange-Crowned Warbler,Vermivora celata
 Orangutans,Pongo
 Orb Weaver,Araneidae
 Orca,Orcinus orca
+Ornamental Pepper,Capsicum annuum
+Ornamental Purslane,Portulaca oleracea
+Ornamental Sweet Potato,Ipomoea batatas
 Ortolan Bunting,Emberiza hortulana
 Oscar Fish,Astronotus ocellatus
 Ostrich,Struthio camelus
@@ -432,20 +519,29 @@ Ox,Bos taurus
 Oyster,Ostreidae
 Oyster Toadfish,Opsanus tau
 Oystercatcher,Haematopus ostralegus
+PJM Rhododendron (group),Rhododendron PJM Group
 Panda,Ailuropoda melanoleuca
 Papaya,Carica papaya
 Pea,Pisum sativum
 Peacock Flower (Gulmohar),Delonix regia rafin
 Peepal,Ficus religiosa Linn.
+Peony,Paeonia Iactiflora
 Peregrine,Falco peregrinus
+Petunia,Petunia x hybrida
 Pheasant,Phasianus colchicus
 Pied,wagtail Motacilla alba
 Pig,Sus scrofa domesticus
 Pineapple,Ananus sativus
 Pink,footed goose Anser brachyrhynchus
+Pink Cosmos,Cosmos bipinnatus
+Pinwheel Zinnia,Zinnia marylandica
+Plumed Cockscomb,Celosia agentea var. plumosa
 Pomegranate,Punica granatum
 Potato,Solanum tuberosum
+Prairie Gayfeather,Liatris spicata
 Praying Mantids,Mantodea
+Purple Coneflower,Echinacea purpurea
+Purple Millet,Pennisetum glaucum
 Purple orchid tree (Kachnar),Bauhinia purpurea
 Quagga,Equus quagga quagga
 Quail,Coturnix coturnix
@@ -458,16 +554,30 @@ Raven,Corvus corax
 Red,kite Milvus milvus
 Red fox,Vulpes Vulpes
 Red maple,Acer rubrum
+Red-hot Poker,Kniphofia uvaria
 Redstart,Phoenicurus phoenicurus
 Redwing,Turdus iliacus
 Reed,bunting Emberiza schoeniclus
 Rice,Oryza sativa
+River Birch,Betula nigra
 Robin,Erithacus rubecula
 Rook,Corvus frugilegus
 Rose,Rosa
+Rose Campion,Lychnis coronaria
+Rose Moss,Portulaca grandiflora
+Russian Sage,Perovskia atriplicifolia
+Salvia May Night,Salvia nemerosa
 Sandalwood,Santalum album
+Saucer Magnolia,Magnolia x soulangiana
+Sea Holly,Eryngium amethystinum
 Sea Lions,Hydrurga leptonyx
+Shasta Daisy,Leucanthemum x superbum
 Sheep,Ovis aries
+Showy Stonecrop,Sedum spectabile
+Siberian Iris,Iris sibirica
+Siebold Hosta,Hosta sieboldiana
+Siebold viburnum,Viburnum sieboldii
+Signet Marigold,Tagetes tenuifolia
 Silkworms,Bombyx mori
 Silver Oak,Grevillea robusta
 Silverfish,Lepisma saccharina
@@ -475,24 +585,37 @@ Siskin,Carduelis spinus
 Skylark,Alauda arvensis
 Snail,Gastropoda
 Snakefly,Raphidioptera
+Snapdragon,Antirrhinum majus
 Snipe,Gallinago gallinago
+Snow-in-Summer,Cerastium tomentosum
+Solcito Zinnia,Zinnia maritima 'Solcito'
 Song,thrush Turdus philomelos
 Soya bean,Glycine max
 Sparrowhawk,Accipiter nisus
 Sperm Whale,Physeter macrocephalus
+Spice bush,Lindera benzoin
+Spider Flower,Cleome hassleriana
 Spinach,Lactuca sativa
 Spotted,flycatcher Muscicapa striata
 Starling,Sturnus vulgaris
+Stiletto Hybrid Hosta,Hosta 'Stiletto'
 Stink Bugs,Halyomorpha halys
 Stock,dove Columba oenas
 Stonechat,Saxicola torquata
+Sugar Maple,Acer saccharum
+Summer Snapdragon,Angelonia angustifolia
+Sun and Substance Hybrid Hosta,Hosta 'Sun and Substance'
 Sunflower,Helianthus annuus
 Swallow,Hirundo rustica
+Sweet Alyssum,Lobularia maritima
 Sweet Potato,Ipomoea batatas
+Tall Verbena,Verbena bonariensis
 Tamarind tree,Tamarindus indica
 Teak,Tectona grandis Linn.
 Termite,Isoptera
 Termites,Isoptera
+Texas Sage,Salvia coccinea
+Thread-leaf Tickseed,Coreopsis verticillata
 Tick,Ixodida
 Tiger,Panthera tigris
 Tiger Shark,Galeocerdo cuvier
@@ -500,6 +623,7 @@ Tobacco,Nicotina tobaccum
 Tomato,Lycopersicon esculentum
 Tree,pipit Anthus trivialis
 Treecreeper,Certhia familiaris
+Tuberous-rooted Begonia,Begonia x tuberhybrida
 Tufted,duck Aythya fuligula
 Tulsi,Ocimum sanctum
 Turmeric,Curcuma longa
@@ -513,6 +637,7 @@ Utonagan,Canis lupus familiaris
 Vampire Bat,Desmodontinae
 Vampire Squid,Vampyroteuthis infernalis
 Vaquita,Phocoena sinus
+Variegated Solomon's Seal,Polygonatum odoratum
 Venus Flytrap,Dionaea muscipula
 Vervet Monkey,Chlorocebus pygerythrus
 VicuÃ±a,Vicugna vicugna
@@ -526,7 +651,10 @@ Wasp,Vespa
 Wasps,Vespidae
 Water Buffalo,Bubalus bubalis
 Watermelon,Citrullus vulgaris
+Wavy-leaved Hosta,Hosta undulata
+Wax Begonia,Begonia x semperflorens-cultorum
 Whale Shark,Rhincodon typus
+Wheat Cockscomb,Celosia agentea var. spicata
 Wheatear,Oenanthe oenanthe
 Whinchat,Saxicola rubetra
 Whitethroat,Sylvia communis
@@ -540,6 +668,8 @@ Xerus,Xerus
 Xoloitzcuintli,Canis lupus familiaris
 Yak,Bos grunniens
 Yakutian Laika,Canis lupus familiaris
+Yarrow,Achillea millefolium
+Yellow Cosmos,Cosmos sulphureus
 Yellow Sac Spider,Cheiracanthium inclusum
 Yellow Spotted Lizard,Lepidophyma flavimaculatum
 Yellow-Eyed Penguin,Megadyptes antipodes
@@ -548,18 +678,17 @@ Yellowhammer,Emberiza citrinella
 Yeti Crab,Kiwa hirsuta
 Yorkie-poo,Canis lupus familiaris
 Yorkshire Terrier,Canis lupus familiaris
-Coral Snake,Micrurus fulvius
-Apple Head Chihuahua,Canis lupus familiaris
-Australian Gecko,Nephrurus levis
-Angora Ferret,Mustela furo
-Antarctic scale worm,Eulagisca gigantea
-Aussiedor,Canis lupus familiaris
 Zebra,Equus quagga
 Zebra Finch,Taeniopygia guttata castanotis
 Zebra Mussels,Dreissena polymorpha
 Zebra Pleco,Hypancistrus zebra
 Zebra Shark,Stegostoma fasciatum
 Zebu,Bos taurus indicus
+Zonal Geranium,Pelargonium x hortorum
 Zonkey,Equus zebra x Equus asinus
 Zorse,Equus zebra x Equus caballus
 Zuchon,Canis lupus familiaris
+chokeberry,Aronia arbutifolia
+oakleaf hydrangea,Hydrangea quercifolia
+smoketree,Cotinus coggygria
+thornless honeylocust,Gleditsia tricanthos f. inermis
