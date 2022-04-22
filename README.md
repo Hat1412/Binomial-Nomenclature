@@ -1,8 +1,9 @@
 # Binomial Nomenclature
-A database for binomial nomenclature (both plants and animals ) contains multiple file types with common names and the scientific name
+Largest database for binomial nomenclature of PLANTS and ANIMALS
 
-Free to use for anyone interested
-
+Free to use for anyone interested 
+<br>
+<pre> If you would like the same in any other file format let me know 😸</pre>
 To use this program:
 
 <strong> <h1> Run the following commands in cmd </h1> </strong>
