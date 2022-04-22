@@ -14,13 +14,13 @@ To download the files:
   
   ```
   
-  else: </br>
+else: </br>
     Download as zip file
-
+    
 </br>
-For more details:
+<h2> Run Main.py for tkinter front end </h2>
+</br>
 <pre>
-
 Contact me at: </br>
     Reddit: <strong> u/Hat1412 </strong>
 </pre>
