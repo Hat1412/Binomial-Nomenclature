@@ -95,6 +95,7 @@ Australian Cockroach,Periplaneta australasiae
 Australian Kelpie Dog,Canis lupus familiaris
 Australian Labradoodle,Canis lupus familiaris
 Australian Mist,Felis catus
+Australian Retriever,Canis lupus familiaris
 Australian Shepherd,Canis lupus familiaris
 Australian Terrier,Canis lupus familiaris
 Avocet,Recurvirostra
@@ -115,6 +116,7 @@ Banana Ball Python,Python regius
 Banana Spider,Nephila
 Banded Palm Civet,Hemigalus derbyanus
 Banded Water Snake,Nerodia fasciata
+Bandicoot,Peramelemorphia
 Banjo Catfish,Aspredinidae
 Banyan,Ficus benghalensis
 Barb,Barbus
@@ -129,18 +131,25 @@ Barred Owl,Strix varia
 Basenji Dog,Canis lupus familiaris
 Basilisk Lizard,Basiliscus basiliscus
 Basking Shark,Cetorhinus maximus
+Bassador,Canis lupus familiaris
 Basset Fauve de Bretagne,Canis lupus familiaris
 Basset Hound,Canis lupus familiaris
 Bassetoodle,Canis lupus familiaris
 Bat,Chiroptera
 Bavarian Mountain Hound,Canis lupus familiaris
 Baya,Ploceus philippinus
+Bea-Tzu,Canis lupus familiaris
+Beabull,Canis lupus familiaris
+Beagador,Canis lupus familiaris
 Beagle,Canis lupus familiaris
+Beagle Shepherd,Canis lupus familiaris
 Beaglier,Canis lupus familiaris
+Beago,Canis lupus familiaris
 Bear,Ursidae
 Bearded Collie,Canis lupus familiaris
 Bearded Dragon,Pogona
 Bearded Vulture,Gypaetus barbatus
+Beaski ,Canis lupus familiaris
 Beauceron,Canis lupus familiaris
 Beaver,Castor
 Bed Bugs,Cimicidae
@@ -163,13 +172,89 @@ Bernese Mountain Dog,Canis lupus familiaris
 Bernese Shepherd,Canis lupus familiaris
 Betta Fish (Siamese Fighting Fish),Betta splendens
 Bichir,Polypteridae
+Bichon Frise,Canis lupus familiaris
+Bichpoo,Canis lupus familiaris
+Biewer Terrier,Canis lupus familiaris
+Bighorn Sheep,Ovis canadensis
+Bilby,Macrotis
+Binturong,Arctictis binturong
+Bird,Aves
+Bird Of Paradise,Strelitzia
+Birman,Felis catus
+Biscuit Beetle,Stegobium paniceum
+Bison,Bison
+Black And Tan Coonhound,Canis lupus familiaris
 Black Gram,Palsoes mungo
+Black Mamba,Dendroaspis polylepis
+Black Marlin,Istiompax indica
 Black Pepper,Piper nigrum
+Black Rhinoceros,Diceros bicornis
+Black Russian Terrier,Canis lupus familiaris
+Black Wasp,Sphex pensylvanicus
+Black Widow Spider,Latrodectus
+Black-Capped Chickadee,Poecile atricapillus
+Black-Footed Ferret,Mustela nigripes
 Blackbuck,Antilope cervicapra
+Blackpoll Warbler,Setophaga striata
+Blanket Octopus,Tremoctopus
+Blister Beetle,Meloidae
+Blobfish,Psychrolutes marcidus
+Blood Python,Python brongersmai
+Bloodhound,Canis lupus familiaris
+Blue Belly Lizard,Sceloporus occidentalis
+Blue Catfish,Ictalurus furcatus
+Blue Iguana,Cyclura lewisi
+Blue Jay,Cyanocitta cristata
+Blue Lacy Dog,Canis lupus familiaris
+Blue Picardy Spaniel,Canis lupus familiaris
+Blue Shark,Prionace glauca
+Blue Tit,Cyanistes caeruleus
+Blue Whale,Balaenoptera musculus
+Blue grosbeak,Passerina caerulea
+Blue-Ringed Octopus,Hapalochlaena
+Bluefin Tuna,Thunnus thynnus
+Bluetick Coonhound,Canis lupus familiaris
+Bobcat,Lynx rufus
+Bobolink,Dolichonyx oryzivorus
+Boggle,Canis lupus familiaris
+Boglen Terrier,Canis lupus familiaris
+Boiga,Boiga
+Bolognese Dog,Canis lupus familiaris
+Bombay,Felis catus
+Bongo,Tragelaphus eurycerus
+Bonito Fish,Sardini
+Bonnethead Shark,Sphyrna tiburo
+Bonobo,Pan paniscus
+Booby,Sula
 Booklice,Psocoptera
+Boomslang,Dispholidus typus
+Borador,Canis lupus familiaris
+Border Collie,Canis lupus familiaris
+Border Terrier,Canis lupus familiaris
+Bordoodle,Canis lupus familiaris
+Borkie,Canis lupus familiaris
+Bornean Orang-utan,Pongo pygmaeus
+Borneo Elephant,Elephas maximus borneensis
+Boston Terrier,Canis lupus familiaris
+Bottlenose Dolphin,Tursiops
+Bouvier Des Flandres,Canis lupus familiaris
+Bowfin,Amia calva
+Bowhead Whale,Balaena mysticetus
+Box Turtle,Terrapene
+Boxador,Canis lupus familiaris
+Boxer Dog,Canis lupus familiaris
+Boxerdoodle,Canis lupus familiaris
+Boxfish,Ostraciidae
+Boxsky,Canis lupus familiaris
+Boxweiler,Canis lupus familiaris
+Boykin Spaniel,Canis lupus familiaris
+Brazilian Terrier,Canis lupus familiaris
 Brinjal,Solanum melongena
+Brittany,Canis lupus familiaris
+Brookesia Micra,Brookesia micra
 Bug,Insecta
 Bulbul,Molpastes cafer
+Butterflies,Rhopalocera
 Butterfly,Rhopalocera
 Capsicum,Capsicum fruitscence
 Carrot,Daucus carota
@@ -182,13 +267,47 @@ Chimpanzee,Pan troglodytes
 Clove,Syzygium aromaticum
 Cockroach,Blattodea
 Cockroaches,Blattodea
+Common Frog,Rana temporaria
+Common Furniture Beetle,Anobium punctatum
+Common House Spider,Parasteatoda tepidariorum
+Common Loon,Gavia immer
+Common Raven,Corvus corax
+Common Toad,Bufo bufo
+Congo Snake,Amphiuma
+Cookiecutter Shark,Isistius brasiliensis
+Coopers Hawk,Accipiter cooperii
+Copperhead,Agkistrodon contortrix
 Coriander,Coriandrum sativum
+Corn Snake,Pantherophis guttatus
+Coton de Tulear,Canis lupus familiaris
 Cotton,Gossypium herbaceum
+Cotton-top Tamarin,Saguinus oedipus
+Cottonmouth,Agkistrodon piscivorus
+Cougar,Puma concolor
 Cow,Bos Taurus
+Coyote,Canis latrans
+Crab,Brachyura
+Crab Spider,Thomisidae
+Crab-Eating Macaque,Macaca fascicularis
+Crabeater Seal,Lobodon carcinophagus
+Crane,Gruidae
+Crappie Fish,Pomoxis
+Crested Gecko,Correlophus ciliatus
+Crested Penguin,Eudyptes sclateri
 Cricket,Grylloidea
 Crickets,Grylloidea
+Crocodile,Crocodylidae
+Cross Fox,Vulpes vulpes
+Cross River Gorilla,Gorilla gorilla diehli
+Crow,Corvus
+Crucian Carp,Carassius carassius
+Cuban Cockroach,Panchlora nivea
+Cuckoo,Cuculidae
 Cucumber,Cucumis sativas
+Curly Coated Retriever,Canis lupus familiaris
 Curry leaf,Murraya koenigii
+Cuscus,Phalanger
+Cuttlefish,Sepiida
 Date Palm,Phoenix dactylifera
 Dog,Canis lupus familiaris
 Donkey,Equus africanus asinus
@@ -429,6 +548,12 @@ Yellowhammer,Emberiza citrinella
 Yeti Crab,Kiwa hirsuta
 Yorkie-poo,Canis lupus familiaris
 Yorkshire Terrier,Canis lupus familiaris
+Coral Snake,Micrurus fulvius
+Apple Head Chihuahua,Canis lupus familiaris
+Australian Gecko,Nephrurus levis
+Angora Ferret,Mustela furo
+Antarctic scale worm,Eulagisca gigantea
+Aussiedor,Canis lupus familiaris
 Zebra,Equus quagga
 Zebra Finch,Taeniopygia guttata castanotis
 Zebra Mussels,Dreissena polymorpha
