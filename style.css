@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman';
+    background-color: #82cfcf79;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    background-color: #1b1729;
+    width: fit-content;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 40px;
+    border-color: rgb(255, 0, 0);
+}
+
+select {
+    margin: 20px;
+    width: fit-content;
+    font-size: 20px;
+    color: cornflowerblue;
+
+}
+
+.container-1 {
+    margin-top: 120px;
+    border-radius: 60px;
+    background: rgb(75, 146, 68);
+    width: 1000px;
+}
+
+.container-2 {
+    margin: 100px;
+    background-color: burlywood;
+    height: 200px;
+    width: 500px;
+    border-radius: 60px;
+
+}
