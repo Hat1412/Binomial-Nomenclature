@@ -12,13 +12,13 @@ To download the files:
   ```
   git clone https://github.com/Hat1412/Binomial_Nomenclature.git
   
-  ```
-  
-else: </br>
-    Download as zip file
-    
+  ```   
 </br>
-<h2> Run Main.py for tkinter front end </h2>
+<h1> Run: </h1>
+<pre> 
+💻Main.py for tkinter front end 
+💻Live Preview: 
+</pre>
 </br>
 <pre>
 Contact me at: </br>
