@@ -17,7 +17,8 @@ To download the files:
 <h1> Run: </h1>
 <pre> 
 💻Main.py for tkinter front end 
-💻Live Preview: 
+💻Live Preview: https://hat1412.github.io/Binomial-Nomenclature/
+[Hosted with Github Pages]
 </pre>
 </br>
 <pre>
