@@ -1,9 +1,6 @@
 # Binomial Nomenclature
-<<<<<<< HEAD
-Largest database for binomial nomenclature of PLANTS and ANIMALS with 793 organinsms
-=======
+
 Largest database for binomial nomenclature of PLANTS and ANIMALS with <strong>793</strong> organisms </br>
->>>>>>> 034dc2a0a90664baacc57c736ad7c902e89e65b8
 Updated Regularly
 
 Free to use for anyone interested 
