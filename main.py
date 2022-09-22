@@ -15,9 +15,7 @@ with open(r"nomenclature.json") as f:
 com = list(d.keys())
 bin = list(d.values())
 
-Label(
-    root, text="Binomial Nomenclature", font=("Comic Sans MS", 25, "bold"), bg="#e7e2a7"
-).pack()
+Label(root, text="Binomial Nomenclature", font=("Comic Sans MS", 25, "bold"), bg="#e7e2a7").pack()
 
 tree_frame = Frame(root).pack(pady=10)
 tree_scroll = Scrollbar(tree_frame)
