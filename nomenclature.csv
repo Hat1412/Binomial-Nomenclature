@@ -309,12 +309,14 @@ Clove,Syzygium aromaticum
 Cockroach,Blattodea
 Cockroaches,Blattodea
 Coconut,Cocos nucifera
+Coelacanth,Actinistia
 Coleus,Solenostemon scutellaroides
 Common Frog,Rana temporaria
 Common Furniture Beetle,Anobium punctatum
 Common House Spider,Parasteatoda tepidariorum
 Common Loon,Gavia immer
 Common Raven,Corvus corax
+Common Snapping Turtle,Chelydra serpentina
 Common Toad,Bufo bufo
 Common Yarrow,Achillea millefolium
 Common Zinnia,Zinnia elegans
@@ -350,7 +352,6 @@ Crested Penguin,Eudyptes sclateri
 Cricket,Grylloidea
 Crickets,Grylloidea
 Crocodile,Crocodylidae
-Fox,Vulpes vulpes
 Cross River Gorilla,Gorilla gorilla diehli
 Crow,Corvus
 Crucian Carp,Carassius carassius
@@ -377,6 +378,7 @@ Dusty Miller,Senecio cineraria
 Earwigs,Dermaptera
 Eastern Redbud,Cercis canadensis
 Eggplant,Solanum melongena
+Emu,Dromaius novaehollandiae
 Eulalia Grass,Miscanthus
 False Indigo,Baptisia australis
 Fan Flower,Scaevola aemula
@@ -392,12 +394,15 @@ Fleas,Siphonaptera
 Flowering Cabbage/Kale,Brassica oleracea
 Flowering Tobacco,Nicotiana x sanderae
 Fly,Diptera
+Flying squirrels,Pteromyini
 Fortune's Hosta,Hosta fortunei 'Albomarginata'
 Fountain Grass,Pennisetum alopecuroides
 Fowl,Gallus gallus domesticus
+Fox,Vulpes vulpes
 Fragrant Sumac,Rhus aromatica
 French Marigold,Tagetes patula
 Fringed Bleeding-heart,Dicentra exima
+Fruitfly,Drosophila melanogaster
 Garden Impatiens,Impatiens walleriana
 Garden Lily,Lilium
 Garden Phlox,Phlox paniculata
@@ -422,12 +427,15 @@ Green Chili,Capsicum annuum
 Green Gram,Phaseolus audicus
 Greenfly,Aphidoidea
 Guava,Psidium guava
+Guinea pig,Cavia porcellus
 Hakone Grass,Hakonechloa
 Hinoki Falsecypress,Chamaecyparis obtusa
 Hippopotamus,Hippopotamus amphibius
+Honey badger,Mellivora capensis
 Horse,Equus ferus caballus
 Hosta Kabitan,Hosta sieboldii
 House wall Lizard,Hemidactylus flaviviridis
+Housefly,Musca domestica
 Human beings,Homo sapiens
 Humpback whale,Megaptera novaeangliae
 Hybrid Astilbe,Astilbe hybrids
@@ -487,15 +495,18 @@ Jumping Spider,Salticidae
 Junglefowl,Gallus
 Kadamb,Anthocephalus indicus
 Kale,Brassica oleracea var. sabellica
+Kangaroo,Macropodidae
 King cobra,Ophiophagus hannah
 Kingfisher,Alcedo atthis
 Kiwi,Actinidia deliciosa
+Koala,Phascolarctos cinereus
 Kohlrabi,Brassica oleracea Gongylodes Group
 Kratt's lichen mantis,Liturgusa krattorum
 Lady's Mantle,Alchemilla mollis
 Ladybug,Coccinellidae
 Ladybugs,Coccinellidae
 Lambs Ears,Stachys x
+Lamprey,Petromyzontiformes
 Lapwing,Vanellus vanellus
 Lavender,Lavendula angustifolia
 Leek,Allium porrum
@@ -571,6 +582,7 @@ Oyster Toadfish,Opsanus tau
 Oystercatcher,Haematopus ostralegus
 PJM Rhododendron (group),Rhododendron PJM Group
 Panda,Ailuropoda melanoleuca
+Pangolin,Pholidota
 Papaya,Carica papaya
 Passionfruit,Passiflora edulis
 Pea,Pisum sativum
@@ -632,6 +644,7 @@ Rose Moss,Portulaca grandiflora
 Russian Sage,Perovskia atriplicifolia
 Salvia May Night,Salvia nemerosa
 Sandalwood,Santalum album
+Saola,Pseudoryx nghetinhensis
 Saucer Magnolia,Magnolia x soulangiana
 Sea Holly,Eryngium amethystinum
 Sea Lions,Hydrurga leptonyx
@@ -664,25 +677,27 @@ Spinach,Lactuca sativa
 Spotted,flycatcher Muscicapa striata
 Spring Onion,Allium fistulosum
 Squash,Cucurbita
+Squid,Decapodiformes
+Squirrel,Sciuridae
 Star Apple,Chrysophyllum cainito
+Starfish,Asteroidea
 Starling,Sturnus vulgaris
-Sunfish,Mola mola
-Wild Turkey ,Meleagris gallopavo
-Emu,Dromaius novaehollandiae
-Honey badger,Mellivora capensis
 Stiletto Hybrid Hosta,Hosta 'Stiletto'
 Stink Bugs,Halyomorpha halys
 Stock,dove Columba oenas
 Stonechat,Saxicola torquata
 Strawberry,Fragaria × ananassa
+Sturgeon,Acipenseridae
 Sugar Maple,Acer saccharum
 Summer Snapdragon,Angelonia angustifolia
 Sun and Substance Hybrid Hosta,Hosta 'Sun and Substance'
+Sunfish,Mola mola
 Sunflower,Helianthus annuus
 Swallow,Hirundo rustica
 Swede/ Rutabaga,Brassica napus Napobrassica Group
 Sweet Alyssum,Lobularia maritima
 Sweet Potato,Ipomoea batatas
+Swordfish,Xiphias gladius
 Tall Verbena,Verbena bonariensis
 Tamarillo,Solanum betaceum
 Tamarind,Tamarindus indica
@@ -704,6 +719,7 @@ Treecreeper,Certhia familiaris
 Tuberous-rooted Begonia,Begonia x tuberhybrida
 Tufted,duck Aythya fuligula
 Tulsi,Ocimum sanctum
+Tuna,Thunnini
 Turmeric,Curcuma longa
 Turnip,Brassica rapa subsp. rapa
 Uakari,Cacajao
@@ -739,8 +755,10 @@ Wheatear,Oenanthe oenanthe
 Whinchat,Saxicola rubetra
 White Cabbage,Brassica oleracea var. capitata
 Whitethroat,Sylvia communis
+Wild Turkey ,Meleagris gallopavo
 Willow,warbler Phylloscopus trochilus
 Wolf,Canis lupus
+Wombat,Vombatus ursinus
 Wood,warbler Phylloscopus sibilatrix
 Woodpigeon,Columba palumbus
 Wren,Troglodytes troglodytes
