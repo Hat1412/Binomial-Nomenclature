@@ -1,5 +1,6 @@
 # Binomial Nomenclature
-Largest database for binomial nomenclature of PLANTS and ANIMALS
+Largest database for binomial nomenclature of PLANTS and ANIMALS with 793 organinsms
+Updated Regularly
 
 Free to use for anyone interested 
 <br>
