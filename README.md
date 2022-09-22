@@ -1,5 +1,9 @@
 # Binomial Nomenclature
+<<<<<<< HEAD
 Largest database for binomial nomenclature of PLANTS and ANIMALS with 793 organinsms
+=======
+Largest database for binomial nomenclature of PLANTS and ANIMALS with <strong>793</strong> organisms </br>
+>>>>>>> 034dc2a0a90664baacc57c736ad7c902e89e65b8
 Updated Regularly
 
 Free to use for anyone interested 
@@ -13,13 +17,14 @@ To download the files:
   ```
   git clone https://github.com/Hat1412/Binomial_Nomenclature.git
   
-  ```
-  
-else: </br>
-    Download as zip file
-    
+  ```   
 </br>
-<h2> Run Main.py for tkinter front end </h2>
+<h1> Run: </h1>
+<pre> 
+💻Main.py for tkinter front end 
+💻Live Preview: https://hat1412.github.io/Binomial-Nomenclature/
+[Hosted with Github Pages]
+</pre>
 </br>
 <pre>
 Contact me at: </br>
