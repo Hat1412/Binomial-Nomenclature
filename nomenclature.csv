@@ -153,6 +153,7 @@ Blue Catfish,Ictalurus furcatus
 Blue Fescue,Festuca glauca
 Blue Iguana,Cyclura lewisi
 Blue Jay,Cyanocitta cristata
+Blue Marlin,Makaira nigricans
 Blue Sage,Salvia farinacea
 Blue Shark,Prionace glauca
 Blue Tit,Cyanistes caeruleus
@@ -184,6 +185,7 @@ Brinjal,Solanum melongena
 Broccoli,Brassica oleracea var. italica
 Brookesia Micra,Brookesia micra
 Brown Hyena,Hyaena brunnea
+Brown-banded cockroach,Supella longipalpa
 Brussels Sprout,Brassica oleracea var. gemmifera
 Bug,Insecta
 Bulbul,Molpastes cafer
@@ -218,6 +220,7 @@ Common Toad,Bufo bufo
 Common Zinnia,Zinnia elegans
 Congo Snake,Amphiuma
 Cookiecutter Shark,Isistius brasiliensis
+Cookiecutter shark,Isistius brasiliensis
 Coopers Hawk,Accipiter cooperii
 Copperhead,Agkistrodon contortrix
 Coral Bells,Heuchera hybrid
@@ -267,6 +270,7 @@ Dusty Miller,Senecio cineraria
 Earwigs,Dermaptera
 Eastern Redbud,Cercis canadensis
 Eggplant,Solanum melongena
+Electric Eel,Electrophorus electricus
 Emperor Penguin,Aptenodytes forsteri
 Emu,Dromaius novaehollandiae
 Eulalia Grass,Miscanthus
@@ -289,8 +293,10 @@ Fountain Grass,Pennisetum alopecuroides
 Fowl,Gallus gallus domesticus
 Fox,Vulpes vulpes
 Fragrant Sumac,Rhus aromatica
+Frilled Shark,Chlamydoselachus anguineus
 Fringed Bleeding-heart,Dicentra exima
 Fruitfly,Drosophila melanogaster
+Fugu,Takifugu rubripes
 Garden Impatiens,Impatiens walleriana
 Garden Lily,Lilium
 Garden Phlox,Phlox paniculata
@@ -298,11 +304,13 @@ Garden Verbena,Verbena x hybrida
 Garlic,Allium sativum
 Gazania,Gazania rigens
 Gentian Sage,Salvia patens
+German cockroach,Blattella germanica
 Gharial,Gavialis gangeticus
 Giggly Spotted Hyena,Crocuta crocuta
 Ginger,Zingiber officinale
 Globe Amaranth,Gomphrena haageana
 Goat,Capra aegagrus hircus
+Goblin Shark,Mitsukurina owstoni
 Gooseneck Loosestrife,Lysimachia
 Gorilla,Gorilla
 Grape,Vitis
@@ -409,6 +417,7 @@ Melon Cantaloupe,Cucumis melo var. cantalupensis
 Million Gold,Melampodium paludosum
 Mint,Mentha arvensis
 Mistle,thrush Turdus viscivorus
+Monkfish,Lophius americanus
 Moorhen,Gallinula chloropus
 Mosquito,Culicidae
 Moss Phlox,Phlox subulata
@@ -440,6 +449,7 @@ Orange-Crowned Warbler,Vermivora celata
 Orangutans,Pongo
 Orb Weaver,Araneidae
 Orca,Orcinus orca
+Oriental cockroach,Blatta orientalis
 Ornamental Purslane,Portulaca oleracea
 Ortolan Bunting,Emberiza hortulana
 Oscar Fish,Astronotus ocellatus
@@ -492,9 +502,9 @@ Rambutan,Nephelium lappaceum
 Raspberry,Rubus idaeus
 Rat snake,Ptyas mucosa
 Raven,Corvus corax
-Red,kite Milvus milvus
 Red Cabbage,Brassica oleracea var. capitata f. rubra
 Red Chili,Capsicum annuum
+Red Kite,kite Milvus milvus
 Red fox,Vulpes Vulpes
 Red maple,Acer rubrum
 Red-hot Poker,Kniphofia uvaria
@@ -510,12 +520,14 @@ Rose Apple,Syzygium jambos
 Rose Campion,Lychnis coronaria
 Rose Moss,Portulaca grandiflora
 Russian Sage,Perovskia atriplicifolia
+Sailfish,Istiophorus platypterus
 Salvia May Night,Salvia nemerosa
 Sandalwood,Santalum album
 Saola,Pseudoryx nghetinhensis
 Saucer Magnolia,Magnolia x soulangiana
 Sea Holly,Eryngium amethystinum
 Sea Lions,Hydrurga leptonyx
+Sea Strawberry,Aplidium elegans
 Shasta Daisy,Leucanthemum x superbum
 Sheep,Ovis aries
 Showy Stonecrop,Sedum spectabile
@@ -525,6 +537,7 @@ Siebold viburnum,Viburnum sieboldii
 Silkworms,Bombyx mori
 Silver Oak,Grevillea robusta
 Silverfish,Lepisma saccharina
+Singapore Cockroach,Nocticola pheromosa
 Siskin,Carduelis spinus
 Skylark,Alauda arvensis
 Snail,Gastropoda
@@ -550,6 +563,7 @@ Squirrel,Sciuridae
 Star Apple,Chrysophyllum cainito
 Starfish,Asteroidea
 Starling,Sturnus vulgaris
+Starry Pufferfish,Arothron stellatus
 Stiletto Hybrid Hosta,Hosta 'Stiletto'
 Stink Bugs,Halyomorpha halys
 Stock,dove Columba oenas
@@ -595,6 +609,7 @@ Uguisu,Horornis diphone
 Uinta Ground Squirrel,Urocitellus armatus
 Umbrellabird,Cephalopterus
 Unau,Choloepus didactylus
+Upside Down Jellyfish,Cassiopeia andromeda
 Ural owl,Strix uralensis
 Vampire Bat,Desmodontinae
 Vampire Squid,Vampyroteuthis infernalis
@@ -618,6 +633,7 @@ Wheat Cockscomb,Celosia agentea var. spicata
 Wheatear,Oenanthe oenanthe
 Whinchat,Saxicola rubetra
 White Cabbage,Brassica oleracea var. capitata
+White marlin,Kajikia albida
 Whitethroat,Sylvia communis
 Wild Turkey ,Meleagris gallopavo
 Willow,warbler Phylloscopus trochilus

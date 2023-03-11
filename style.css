@@ -28,12 +28,3 @@ select {
     background: rgb(75, 146, 68);
     width: 1000px;
 }
-
-.container-2 {
-    margin: 100px;
-    background-color: burlywood;
-    height: 200px;
-    width: 500px;
-    border-radius: 60px;
-
-}
