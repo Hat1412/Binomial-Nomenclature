@@ -1,21 +1,293 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Binomial Nomenclature</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
 
-  <body>
-    <center>
-      <h1>Binomial Nomenclature</h1>
-      <div class="container-1">
-        <select id="cn"></select>
-        <select id="bn"></select>
-      </div>
-    </center>
-  </body>
-  <script type="module" src="script.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binomial Nomenclature</title>
+    <link rel="shortcut icon" href="favicon_1412.ico?1124" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            /* background-color: #f4f4f9; */
+            background: linear-gradient(rgba(229, 240, 241, 100), rgba(229, 240, 241, 3));
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        main {
+            padding: 2rem;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .controls input,
+        .controls select {
+            padding: 0.5rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .table-container {
+            margin: 2rem auto;
+            padding: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background: white;
+            max-width: 1200px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 2rem 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .placeholder {
+            text-align: center;
+            color: #aaa;
+            font-size: 1.2rem;
+            padding: 2rem;
+        }
+
+        h2 {
+            text-align: center;
+            color: #444;
+        }
+
+        .controls {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        button,
+        select {
+            font-size: 16px;
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        select {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            color: #333;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Binomial Nomenclature</h1>
+    </header>
+    <main>
+
+        <h2>Table of Species</h2>
+        <button onclick="sortTable(true)">Sort Ascending</button>
+        <button onclick="sortTable(false)">Sort Descending</button>
+
+
+        <label for="filter">Filter by Letter:</label>
+        <select id="filter" onchange="filterTable()">
+            <option value="A">All</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+            <option value="G">G</option>
+            <option value="H">H</option>
+            <option value="I">I</option>
+            <option value="J">J</option>
+            <option value="K">K</option>
+            <option value="L">L</option>
+            <option value="M">M</option>
+            <option value="N">N</option>
+            <option value="O">O</option>
+            <option value="P">P</option>
+            <option value="Q">Q</option>
+            <option value="R">R</option>
+            <option value="S">S</option>
+            <option value="T">T</option>
+            <option value="U">U</option>
+            <option value="V">V</option>
+            <option value="W">W</option>
+            <option value="X">X</option>
+            <option value="Y">Y</option>
+            <option value="Z">Z</option>
+        </select>
+
+        <input type="radio" id="filter_by" name="filter_by" value="1" checked="checked">
+        <label for="html">Common Name</label>
+        <input type="radio" id="filter_by" name="filter_by" value="4">
+        <label for="css">Scientific Name</label>
+        <div class="table-container">
+            <h2 style="text-align: end;" id="count"></h2>
+            <table id="myTable" TagName="table1">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Common Name</th>
+                        <th>Genus</th>
+                        <th>Species</th>
+                        <th>Scientific Name</th>
+                    </tr>
+                </thead>
+                <tbody id="data-output">
+                    <tr>
+                        <td colspan="5" class="placeholder">Table is currently empty. Add entries to showcase species.
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+
+        <script>
+            fetch("final_data.json")
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (products) {
+                    let placeholder = document.querySelector("#data-output");
+                    let out = "";
+                    for (let product of products) {
+                        out += `
+                 <tr>
+                    <td>${product.id}</td>
+                    <td>${product.cn}</td>
+                    <td>${product.Genus}</td>
+                    <td>${product.Species}</td>
+                    <td>${product.bn}</td>
+                 </tr>
+              `;
+                    }
+
+                    placeholder.innerHTML = out;
+                    altrows("#f9f9f9", "#e0e0e0");
+
+                });
+
+            function altrows(firstcolor, secondcolor) {
+                Table1 = document.getElementById("myTable")
+                aTR = document.getElementById('myTable').getElementsByTagName('tr');
+                for (var i = 0, count = 1; i < aTR.length; i++) {
+                    if (aTR[i].style.display != 'none') {
+                        aTR[i].style.backgroundColor = (count % 2) ? "#f9f9f9" : "#e0e0e0";
+                        count++;
+                    }
+                }
+                document.getElementById("count").textContent = count - 2
+
+            }
+
+            function sortTable(ascending) {
+                const table = document.getElementById('myTable');
+                const rows = Array.from(table.rows).slice(1); // Exclude the header row
+                rows.sort((a, b) => {
+                    const nameA = a.cells[document.getElementById("filter_by").value].innerText.toLowerCase();
+                    const nameB = b.cells[document.getElementById("filter_by").value].innerText.toLowerCase();
+                    return ascending ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
+                });
+                rows.forEach(row => table.tBodies[0].appendChild(row));
+
+                altrows();
+            }
+
+            function filterTable() {
+                const filter = document.getElementById('filter').value.toUpperCase();
+                const table = document.getElementById('myTable');
+                const rows = Array.from(table.rows).slice(1); // Exclude the header row
+                rows.forEach(row => {
+                    const name = row.cells[
+                        document.querySelector('input[name="filter_by"]:checked').value
+                    ].innerText.toUpperCase();
+                    row.style.display = filter === "" || name.startsWith(filter) ? "" : "none";
+                });
+                document.getElementById("count").textContent = Table1.rows.length
+
+                altrows("#f9f9f9", "#e0e0e0");
+
+            }
+            altrows("#f9f9f9", "#e0e0e0");
+
+
+
+        </script>
+
+
+
+
+    </main>
+    <footer>
+        <p>&copy; 2024 Ron. All Rights Reserved.</p>
+    </footer>
+
+</body>
+
 </html>
